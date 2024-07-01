@@ -11,5 +11,5 @@
       - fitz package :
             - vscode or command prompt(cmd) comment "pip install fitz".
 
-### How it does  look like 
+### How does it  look like 
     - It has rows and columns which has been lined according to the pdf which has been saved. And it doesn't have any duplicates. 
